@@ -1,0 +1,7 @@
+br,&lt,&gt,hr,&reg,&copy &trade,&pound,&yen,&cent,&delta,
+&uparrow=&uarr, etc.
+Vamos adicionar alguns emoji:" Pesquisar os códigos
+    "&#xcódigo"
+Ex:
+            &#x1f596;
+            &#x1f913;

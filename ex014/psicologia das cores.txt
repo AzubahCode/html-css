@@ -1,0 +1,53 @@
+Azul:Competencia, calma, sabedoria, menor taxa de rejeição, confianção, segurança
+vermelho: Amor, energia, raiva, perigo, comida
+pretocombranco:contraste, cansaço visual muito rápido
+brancocompreto:padrao 
+amarelo:felicidade, alimentação
+laranja:calor, divertimento, cautela
+verde: saude, dinheiro, sorte
+marrom:estabilidade, amizade
+Monocromaticos
+roxo:fora do padrao
+rosa: sentimental,cosmeticos
+prata:é muito bem misturado
+- a mescla é boa quando bem utilizade
+	- CORES COMPLEMENTARES-
+Violeta e Amarelo
+Vermelho e Verde
+Azul e Laranja
+	-Cores Irmas(analoga e uma complementar)
+Cores vizinhas
+violeta, roxo e rosa
+Amarelo, laranja, laranja escuro, azul
+	-Cores analogas relacionadas
+cores ao lado e pulando uma do outro lado na tabela de cores
+ex: amarelo, bege e laranja escuro
+ex: bege, amarelo e verde escuro
+	-Cores intercaladas(pulando de um em um a um unico lado)
+Amarelo, laranja e vemelho
+verde claro, azul esverdeado e roxo
+	-Cores Triádicas(Triangulo equilatero)
+amarelo, vermelho e azul
+	-Cores em quadrado(Formando um quadrado)
+amarelo, laranja, roxo e verde
+	-Cores Tetrádica(fazendo um x)
+Verde, vermelho, laranja e azul
+	-Monocromia(modificando 2x vezes a saturação) O famoso degradê
+Laranja, bege, moreno, marrom
+	-Aobe color tem PALETA DE CORES
+Nele tem como avaliar outras paletas de um logo e modificar
+Tem como ver as paletas mais usadas 
+Transformas as cores em formatos CSS
+Extrair gradientes
+	-Paletton(Outra paleta de cores)
+Da para ver simulação de site e a paleta de cores no site
+	-Coolors.co
+Pegar códigos
+
+
+
+
+
+
+
+

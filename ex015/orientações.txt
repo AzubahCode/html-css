@@ -1,0 +1,15 @@
+GOOGLE FONTS.com
+Dafont.com
+Whatfontis.com
+Fontsquirrel.com
+Myfonts.com
+tipos de formatos
+-opentype
+-truetype
+-embedded-opentype
+-truetype-aat (Apple Advanced Typography)
+-svg
+Códigos
+-@font-face
+-scr: url()
+format('truetype');

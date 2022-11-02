@@ -1,0 +1,9 @@
+border 20px solid black;
+padding 10px;
+border-image-source url('borda.png');
+border-image-slice 27;
+border-image-repeat repeat ou stretch;
+
+
+Simplificado
+border-image: url('borda.png') 27 repeat; /*corta as 3 ultimas linhas de border*/

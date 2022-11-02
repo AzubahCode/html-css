@@ -1,0 +1,31 @@
+height: altura
+widht: largura
+border: borda
+padding: preenchimento(borda para dentro)
+margin: margem(borda pra fora)
+outline:traçado (fora do elemento/borda)
+Tipos de Caixas
+box-level:Paragrafo
+<div>
+<h1>-<h6>
+<p>
+<main>
+<header>
+<nav>
+<article>
+<aside>
+<footer>
+<form>
+<video>
+inline-level: apenas pula um pedaço da linha
+<span>
+<a>
+<code>
+<small>
+<strong>
+<em>
+<sup> - <sub>
+<label>
+<button>
+<input>
+<select>

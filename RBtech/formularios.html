@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com Formularios</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <form action="contato.php" method="get" ></form>
+    <label for="nome"> Nome:</label>
+    <input id="nome" type="text" placeholder="Digite seu nome">
+    <label for="opçao">Você gostou do nosso site?</label>
+    <input type="radio" name="opção" value="sim" checked="checked" >sim
+    <input type="radio" name="opção" value="não" >não
+    <label for="linguagem">Você quer aprender mais sobre:</label>
+    <input type="checkbox" name="html">HTML
+    <input type="checkbox" name="css">CSS
+    <textarea name="msg" id="" cols="30" rows="10"></textarea>
+    <input type="submit" value="Enviar">
+</body>
+</html>
